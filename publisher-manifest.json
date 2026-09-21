@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3c5a01ba5b150748631d12ce",
+  "owner": "ysydkjm",
+  "repo": "page-f9cdadc8e34ef1405249d4c4",
+  "title": "逸云(NETRON)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f9cdadc8e34ef1405249d4c4",
+      "a": "逸云(NETRON)",
+      "b": "机场官网线路发布页",
+      "entity": "逸云(NETRON)",
+      "brand": "逸云(NETRON)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a7e813df41031e8ee16bd460361fb6dc5e8e6f4e55f6e0bd4ab6e8b93e4f6ad3",
+      "content": {
+        "primary_entity": "逸云(NETRON)",
+        "keyword1": "逸云(NETRON)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，逸云(NETRON)提供基础版、旗舰版与团队版三档套餐，月付价格从 ¥15 到 ¥85，按年付可享 ¥150/年、¥350/年与 ¥850/年。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并配有 IPLC 专线游戏加速优化，团队版每月 1000GB 支持 20 台设备且含专属客户经理服务。用户可依使用设备数量与流量需求选择对应档位，再依客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "逸云(NETRON) 多档套餐按需选",
+          "AI_HERO_INTRO": "逸云(NETRON) 为不同设备数量的用户提供基础版、旗舰版与团队版三档海外加速套餐。基础版适合单人轻量使用，旗舰版面向多设备流媒体与游戏场景，团队版满足高流量与多设备同时在线需求。选择时先确认设备数量与月流量消耗，再对照各档位权益确定套餐。",
+          "AI_VISUAL_TITLE": "逸云(NETRON) 套餐与线路",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_FEATURES_TITLE": "套餐选择与使用要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度选择逸云(NETRON)套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档流量，按使用习惯匹配。",
+          "AI_FEATURE_TITLE_3": "按订阅周期考虑价格",
+          "AI_FEATURE_TEXT_3": "月付与年付可选，年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备可选择对应的客户端导入逸云(NETRON)订阅，请依客户端文档完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数量与线路权益上依次递增，可依需求对比选择。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "选择服务、确认适配要求、依客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量，在基础版、旗舰版或团队版中选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备数量上限与所需客户端类型，确保符合套餐权益范围。",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_STEP_TEXT_3": "按所选设备客户端的使用说明导入逸云(NETRON)订阅并完成连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "逸云(NETRON)套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先看设备数量：3 台以内选基础版，5 台左右选旗舰版，20 台以内选团队版。再看每月流量：100GB、300GB 与 1000GB 分别对应三档。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付 ¥15、年付 ¥150/年；旗舰版月付 ¥35、年付 ¥350/年；团队版月付 ¥85、年付 ¥850/年。年付相当于按十个月计费。",
+          "AI_FAQ_QUESTION_3": "同一账号能在多台设备使用吗？",
+          "AI_FAQ_ANSWER_3": "可以，但受套餐设备数量限制：基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。超出数量时需升级套餐或调整在线设备。",
+          "AI_FAQ_QUESTION_4": "旗舰版的线路有什么特别？",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟与流媒体体验有要求的用户。基础版为普通线路节点池。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备，并提供 VIP 专属高带宽节点、企业定制路由与专属客户经理服务，适合小型团队或高流量多设备环境。",
+          "AI_CLOSING_TITLE": "选对套餐再配置",
+          "AI_CLOSING_TEXT": "确认设备数量与流量需求后选择逸云(NETRON)套餐，再依客户端文档完成订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rrlic.cn",
+    "host": "rrlic.cn"
+  },
+  "file_hashes": {
+    "index.html": "edbca9fd5c2a4a8f663c6aff5d0f48f4cba1abc6614ac49b4e28f20515c1ae4d",
+    "sitemap.xml": "6eaa99755f9146f0beefbd66850593047a4482e6e3c906f478345cbc6e5dcd32",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f45432bbe03ce758e5797612f63017bdfcbdd656445faeac7413dbbabeb56bea",
+    "robots.txt": "60d84804eba8a0d04ab2037305a1f7937391011bfaea45e15bd66aa758506d53",
+    "0ac6fd18217335228c1957183d44c495.txt": "99f30a247a2b9a7c41a6aa29b6b98afe5f162f2a6e2de8a840a490929437307f"
+  },
+  "revision": "5f5a2c20c6f21c922a07c6c58b3c427e6cfdd52594570b257af151448287bf57"
+}
